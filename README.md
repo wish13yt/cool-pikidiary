@@ -7,4 +7,4 @@ PikiDownage: https://wish13yt.github.io/PikiDownage/ | A tool that lets you chec
 <br>
 PikiBrowse: https://github.com/wish13yt/pikibrowse | A tool for viewing Pikidiary via Python.
 <br>
-If you have any more ideas, let me know by emailing me at wishyt@proton.me!
+If you have any more ideas, let me know by making an issue!
